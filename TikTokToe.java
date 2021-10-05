@@ -2,7 +2,7 @@ package com.BL;
 
 public class TikTokToe {
 	Public static void main(String args[]) {
-		System.out.println("Start play");
+		System.out.println("Start play hii");
 		createBoard();
 	}
 	public static createBoard() {
