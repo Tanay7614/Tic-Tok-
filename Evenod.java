@@ -7,9 +7,9 @@ public class Evenod {
 		 int p=sc.nextInt();
 		 if(p%2==0) {
 			 System.out.println("No is even no");
-		 }
+		 } 
 		 else {
-			 System.out.println("No is odd");
+			 System.out.println("No is odd yes it is odd");
 		 }
 
 }
