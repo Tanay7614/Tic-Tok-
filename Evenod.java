@@ -9,7 +9,7 @@ public class Evenod {
 			 System.out.println("No is even no");
 		 } 
 		 else {
-			 System.out.println("No is odd yes it is odd");
+			 System.out.println("No is hii anuj odd yes it is odd");
 		 }
 
 }
